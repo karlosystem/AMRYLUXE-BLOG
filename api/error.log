@@ -1,0 +1,32 @@
+[25/5/2026, 4:34:04 p. m.] [GET] /api/category/all-category - Error 500: not authorized on yt-mern-blog to execute command { find: "categories", filter: {}, sort: { name: 1 }, lsid: { id: UUID("98cdad60-dbff-4862-b731-776b2f404d20") }, $db: "yt-mern-blog" }
+[25/5/2026, 4:34:05 p. m.] [GET] /api/blog/blogs - Error 500: not authorized on yt-mern-blog to execute command { find: "blogs", filter: {}, sort: { createdAt: -1 }, lsid: { id: UUID("9f0ce80a-cdab-4710-a504-8369a993e742") }, $db: "yt-mern-blog" }
+[25/5/2026, 4:34:05 p. m.] [GET] /api/category/all-category - Error 500: not authorized on yt-mern-blog to execute command { find: "categories", filter: {}, sort: { name: 1 }, lsid: { id: UUID("6868fe25-e6df-48c7-8066-6f945de46bfc") }, $db: "yt-mern-blog" }
+[25/5/2026, 4:34:05 p. m.] [GET] /api/blog/blogs - Error 500: not authorized on yt-mern-blog to execute command { find: "blogs", filter: {}, sort: { createdAt: -1 }, lsid: { id: UUID("9f0ce80a-cdab-4710-a504-8369a993e742") }, $db: "yt-mern-blog" }
+[25/5/2026, 4:38:22 p. m.] [GET] /api/user/get-user/69fe5c92787ea51c9b23959b - Error 500: Internal server error.
+[25/5/2026, 4:38:22 p. m.] [GET] /api/user/get-user/69fe5c92787ea51c9b23959b - Error 500: Internal server error.
+[25/5/2026, 4:38:36 p. m.] [GET] /api/user/get-user/69fe5c92787ea51c9b23959b - Error 500: Internal server error.
+[25/5/2026, 4:38:36 p. m.] [GET] /api/user/get-user/69fe5c92787ea51c9b23959b - Error 500: Internal server error.
+[25/5/2026, 4:38:42 p. m.] [GET] /api/auth/logout - Error 500: Internal server error.
+[25/5/2026, 4:49:07 p. m.] [GET] /api/user/get-user/69fe5c92787ea51c9b23959b - Error 500: Internal server error.
+[25/5/2026, 4:49:07 p. m.] [GET] /api/user/get-user/69fe5c92787ea51c9b23959b - Error 500: Internal server error.
+[27/5/2026, 10:07:18 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:07:38 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:11:02 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:13:53 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:18:37 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:31:24 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:42:12 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:42:24 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:44:37 a. m.] [POST] /api/auth/login - Error 404: Acceso Invalido
+[27/5/2026, 10:45:20 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:48:00 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:48:22 a. m.] [POST] /api/category/add - Error 500: Internal server error.
+[27/5/2026, 10:53:36 a. m.] [POST] /api/category/add - Error 403: Acceso denegado. Se requieren permisos de administrador.
+[27/5/2026, 10:53:45 a. m.] [POST] /api/category/add - Error 403: Acceso denegado. Se requieren permisos de administrador.
+[27/5/2026, 10:56:37 a. m.] [POST] /api/category/add - Error 403: Acceso denegado. Se requieren permisos de administrador.
+[27/5/2026, 11:00:29 a. m.] [POST] /api/category/add - Error 403: Acceso denegado. Se requieren permisos de administrador.
+[27/5/2026, 11:02:37 a. m.] [POST] /api/category/add - Error 403: Acceso denegado. Se requieren permisos de administrador.
+[27/5/2026, 3:18:21 p. m.] [GET] /api/blog/get-related-blog/category/moda-y-belleza - Error 500: Internal server error.
+[27/5/2026, 3:18:22 p. m.] [GET] /api/blog/get-related-blog/category/moda-y-belleza - Error 500: Internal server error.
+[27/5/2026, 3:18:22 p. m.] [GET] /api/blog/get-related-blog/category/moda-y-belleza - Error 500: Internal server error.
+[27/5/2026, 3:18:22 p. m.] [GET] /api/blog/get-related-blog/category/moda-y-belleza - Error 500: Internal server error.
