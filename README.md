@@ -1,4 +1,4 @@
-# 🌟 BLOG AMRYLUXE - Plataforma Full-Stack (MERN) de Moda & Belleza
+# 🌟 BLOG AMRYLUXE - Full-Stack (MERN)
 
 <p align="center">
   <img src="https://img.shields.io/badge/MERN-Stack-vibrantgreen?style=for-the-badge" alt="MERN Stack" />
