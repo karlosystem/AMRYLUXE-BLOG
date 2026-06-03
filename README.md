@@ -33,13 +33,13 @@
 
 ### Vista de Usuario (Frontend)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karlosystem/AMRYLUXE-BLOG/main/client/public/screenshot-home.jpg" alt="Home AMRY LUXE" width="90%" />
+  <img src="https://raw.githubusercontent.com/karlosystem/AMRYLUXE-BLOG/main/client/public/screenshot-home.png" alt="Home AMRY LUXE" width="90%" />
 </p>
 
 ### Panel de Gestión de Contenidos (CMS)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karlosystem/AMRYLUXE-BLOG/main/client/public/screenshot-admin.jpg" alt="Admin Panel" width="45%" />
-  <img src="https://raw.githubusercontent.com/karlosystem/AMRYLUXE-BLOG/main/client/public/screenshot-editor.jpg" alt="HTML Editor" width="45%" />
+  <img src="https://raw.githubusercontent.com/karlosystem/AMRYLUXE-BLOG/main/client/public/screenshot-admin.png" alt="Admin Panel" width="45%" />
+  <img src="https://raw.githubusercontent.com/karlosystem/AMRYLUXE-BLOG/main/client/public/screenshot-editor.png" alt="HTML Editor" width="45%" />
 </p>
 
 ---
